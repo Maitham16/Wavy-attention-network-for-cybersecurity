@@ -1,5 +1,4 @@
-# Wavy-attention-network-for-cybersecurity
-Wavy-attention network implementation for ICS cybersecurity
+# Wavy-attention-network-for-ICS-cybersecurity
 # Wavy-Attention Network for Sensor Attack Detection in Nuclear Plants
 
 ![Logo or related graphic here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/Wavenet.png)
