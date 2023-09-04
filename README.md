@@ -25,11 +25,11 @@ The advent of digital devices like Programmable Logic Controllers (PLC) and smar
 ## 🔍 Experiments & Results
 Utilizing the Asherah Nuclear Simulator (ANS) in MATLAB/SIMULINK, we simulated conditions for the reactor in its steady state and under attack. Three cyberattacks were simulated on critical sensors, using the [false data injection](https://github.com/sasankapotluri/ICS-Injection_Attack_Toolbox) toolbox developed by Potluri et al. 
 
-Our Wavy-Attention Network classifier was trained, validated, and tested using this data. The promising results make it evident that WAN holds significant potential in safeguarding future nuclear reactors.
+Our Wavy-Attention Network classifier was trained, validated, and tested using the data in the repository. The promising results make it evident that WAN holds significant potential for safeguarding future nuclear reactors.
 
 ## 🛠️ Getting Started
-1. **Installation & Setup**: Please refer to this notebook for instructions on dependencies and getting the code running.
-2. **Data Preparation**: we have prepared the data for you here, here, and here.
+1. **Installation & Setup**: Please refer to this [notebook](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/WAN_for_ICS_cybersecurity.ipynb) for instructions on dependencies and getting the code running.
+2. **Data Preparation**: We have prepared the data for you [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/HFA_on_prezz_press.xls), [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/HSMI_on_PZ_Level.xls),[here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/RCA_on_RX_MeanCool.xls) and [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/Normal_plant_operation.xls).
 3. **Training & evaluation**: Train the Wavy-Attention Network on the provided data using the provided notebook. Or explore better models using the data.
 
 [Detailed Guide & Documentation](https://www.ans.org/pubs/proceedings/article-53799/)
