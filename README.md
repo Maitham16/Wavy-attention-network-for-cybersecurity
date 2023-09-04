@@ -29,7 +29,7 @@ Our Wavy-Attention Network classifier was trained, validated, and tested using t
 
 ## 🛠️ Getting Started
 1. **Installation & Setup**: Please refer to this [notebook](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/WAN_for_ICS_cybersecurity.ipynb) for instructions on dependencies and getting the code running.
-2. **Data Preparation**: We have prepared the data for you [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/HFA_on_prezz_press.xls), [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/HSMI_on_PZ_Level.xls),[here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/RCA_on_RX_MeanCool.xls) and [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/Normal_plant_operation.xls).
+2. **Data Preparation**: We have prepared the data for you [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/HFA_on_prezz_press.xls), [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/HSMI_on_PZ_Level.xls), [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/RCA_on_RX_MeanCool.xls) and [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/Normal_plant_operation.xls).
 3. **Training & evaluation**: Train the Wavy-Attention Network on the provided data using the provided notebook. Or explore better models using the data.
 
 [Detailed Guide & Documentation](https://www.ans.org/pubs/proceedings/article-53799/)
