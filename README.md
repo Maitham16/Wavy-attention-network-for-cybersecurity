@@ -39,4 +39,4 @@ If you find our research useful, please consider citing our paper. Here's a sugg
 
 Ayodeji A. et al. (2023). Wavy-attention network for real-time cyber-attack detection in a pressurized water reactor digital control system. Proceedings of American Nuclear Society Conference (NPIC&HMIT). Available at: https://www.ans.org/pubs/proceedings/article-53799/
 
-**For direct access to the paper, more insights, deep dives, and discussions, please refer to the [full paper](https://www.ans.org/pubs/proceedings/article-53799/).**
+**For more insights, deep dives, and discussions, please refer to the [full paper](https://www.ans.org/pubs/proceedings/article-53799/).**
