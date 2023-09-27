@@ -3,7 +3,7 @@
 
 ![Logo or related graphic here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/Wavenet.png)
 
-Amidst the surge of interest in advanced reactors, especially small modular reactors (SMR) and micro-reactor designs, digitization plays a pivotal role. While digital control systems for these reactors enable optimization, reduced costs, and extended lifetimes, they also introduce potential vulnerabilities to cyberattacks. Our work addresses this risk with the introduction of a **Wavy-Attention Network** designed specifically for sensor attack detection in nuclear plants.
+Amidst the surge of interest in advance reactors, especially small modular reactors (SMR) and micro-reactor designs, digitization plays a pivotal role. While digital control systems for these reactors enable optimization, reduced costs, and extended lifetimes, they also introduce potential vulnerabilities to cyberattacks. Our work addresses this risk with the introduction of a **Wavy-Attention Network** designed specifically for sensor attack detection in nuclear plants.
 
 ## 🌟 Highlights
 - Proposes a **Wavy-Attention Network** for real-time cyber-attack detection in Pressurized Water Reactor (PWR) digital control systems.
