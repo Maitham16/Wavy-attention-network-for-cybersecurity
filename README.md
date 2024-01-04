@@ -15,7 +15,7 @@ Amidst the surge of interest in advance reactors, especially small modular react
 Traditional deep learning models might fall short when trying to detect subtle cyber threats captured in dynamic sequences of process measurements. Attention mechanisms, especially in transformer architecture, have shown potential in sequence and time-series tasks. However, most of these models cater to large language models and may not be suitable for nuclear plant control signals.
 
 Our **Wavy-Attention Network (WAN)** introduces a sequential self-attention layer in a wavy architecture. This innovative approach captures the dynamic and periodic nature of nuclear control systems, enabling accurate cyber-attack detection.
-The model, trained on data simulated from ANS, displays a remarkable **99% accuracy**. For a comprehensive dive into our research, theoretical framework, and results, [refer to the full paper](https://www.ans.org/pubs/proceedings/article-53799/).
+The model, trained on data simulated from ANS, displays a remarkable **99% accuracy**. For a comprehensive dive into our research, theoretical framework, and results, [refer to the full paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665702).
 
 ## 🛡️ Why Cybersecurity in SMR is Crucial
 The advent of digital devices like Programmable Logic Controllers (PLC) and smart sensors brings unprecedented benefits. Yet, the potential cyber vulnerabilities can lead to severe consequences, from plant shutdowns to safety risks. Especially with cyber-physical sensors being susceptible to cyber-attacks targeting specific system frequencies, the need for a robust real-time cyber-attack detection mechanism is more pronounced than ever.
@@ -31,7 +31,7 @@ Our Wavy-Attention Network classifier was trained, validated, and tested using t
 2. **Data Preparation**: We have prepared the data for you [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/HFA_on_prezz_press.xls), [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/HSMI_on_PZ_Level.xls), [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/RCA_on_RX_MeanCool.xls) and [here](https://github.com/abiodun-ayodeji/Wavy-attention-network-for-cybersecurity/blob/main/Normal_plant_operation.xls).
 3. **Training & evaluation**: Train the Wavy-Attention Network on the provided data using the provided notebook. Or explore better models using the data.
 
-[Detailed Guide & Documentation](https://www.ans.org/pubs/proceedings/article-53799/)
+[Detailed Guide & Documentation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665702)
 
 
 ## 📝 Citation
@@ -39,4 +39,4 @@ If you find our research useful, please consider citing our paper. Here's a sugg
 
 Ayodeji A. et al. (2023). Wavy-attention network for real-time cyber-attack detection in a pressurized water reactor digital control system. Proceedings of American Nuclear Society Conference (NPIC&HMIT). Available at: https://www.ans.org/pubs/proceedings/article-53799/
 
-**For more insights, deep dives, and discussions, please refer to the [full paper](https://www.ans.org/pubs/proceedings/article-53799/).**
+**For more insights, deep dives, and discussions, please refer to the [full paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665702).**
